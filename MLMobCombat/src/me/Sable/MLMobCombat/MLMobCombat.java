@@ -31,8 +31,9 @@ public class MLMobCombat extends JavaPlugin {
 			System.out.println("[MLMobCombat] Could not link to MLManager...Disabling.");
 			this.getServer().getPluginManager().disablePlugin(this);
 		}		
-
-		System.out.println("[MLMobCombat] Enabled.");
+		else {
+			System.out.println("[MLMobCombat] Enabled.");
+		}
 	}
 	
 	public void onDisable(){
