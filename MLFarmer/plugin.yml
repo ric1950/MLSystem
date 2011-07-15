@@ -1,0 +1,7 @@
+name: MLFarmer
+main: me.Ric.MLFarmer.MLFarmer
+version: 0.1.0
+description: >
+             for use with MLManager
+
+commands:

@@ -1,4 +1,15 @@
 .classpath
 .project
 /.settings
-/bin
+MLManager/bin
+MLManager/.settings
+MLManager/.classpath
+MLManager/.project
+MLMobCombat/.settings
+MLMobCombat/bin
+MLMobCombat/.classpath
+MLMobCombat/.project
+MLFarmer/.settings
+MLFarmer/bin
+MLFarmer/.classpath
+MLFarmer/.project
