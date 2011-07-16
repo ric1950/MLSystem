@@ -1,0 +1,7 @@
+name: MLMobCombat
+main: me.Sable.MLMobCombat.MLMobCombat
+version: 0.1.0
+description: >
+             for use with MLManager
+
+commands:
